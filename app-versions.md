@@ -4,8 +4,8 @@
 ### 🎨 New Features
 - **Dark Mode Support**
   - Toggle between light and dark themes
-  - Automatically saves preference
-  - ![Dark mode preview](./assets/gifs/dark-mode-demo.gif)
+  - Automatically saves preferences
+  <img src="https://assets.craftyamigo.com/assets/update-assets/2025-06-23%2011.09.22.gif"/>
   
 - **Advanced Dashboard Analytics**
   - Real-time data visualization
