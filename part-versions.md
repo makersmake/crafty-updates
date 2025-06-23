@@ -39,10 +39,6 @@
 - **Skeleton Loader**
   - Text, card, and image variants
   - Customizable animation speed
-  - <details>
-    <summary>View Examples</summary>
-    <img src="./assets/gifs/skeleton-examples.gif" alt="Skeleton loader examples" />
-  </details>
 
 ### 🔧 Component Updates
 - **Button Component**
