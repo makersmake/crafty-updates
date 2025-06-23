@@ -10,12 +10,6 @@
 - **Advanced Dashboard Analytics**
   - Real-time data visualization
   - Export reports to PDF
-  - <details>
-    <summary>View Dashboard Demo</summary>
-    <video width="600" controls>
-      <source src="./assets/videos/dashboard-demo.mp4" type="video/mp4">
-    </video>
-  </details>
 
 ### 🐛 Bug Fixes
 - Fixed navigation menu on mobile devices
