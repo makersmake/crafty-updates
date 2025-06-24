@@ -8,14 +8,14 @@
 - Real-time preview with angle and dimension displays
 - Inverse shape cutting for complex negative space designs
 - Full undo/redo support for experimentation
-<img src="https://assets.craftyamigo.com/assets/update-assets/app/cuts.gif">
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.0_cut_intro.gif">
 
 ### Advanced Cut Editing
 - Layer cuts on top of cuts for intricate designs
-<img src="https://assets.craftyamigo.com/assets/update-assets/app/layered-cuts.gif">
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.0_cut_inverse.gif">
 - Copy and paste cuts between parts
 - Modify dimensions, textures, and colors after cutting
-<img src="https://assets.craftyamigo.com/assets/update-assets/app/modify-dimensions-cuts.gif">
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.0_cut_multiple.gif">
 - Maintain material properties through the cutting process
 ---
 
