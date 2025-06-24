@@ -1,6 +1,6 @@
 # Application Version History
 
-## v1.0.0 - 2024-01-25
+## v1.0.0 - 2025-06-15
 ### Precision Cutting System
 - Create cuts and holes of any shape in wood, metal, aluminum, HVAC materials, steel rods, and pipes
 - Comprehensive shape library with rectangles, stars, triangles, pentagons, trapezoids, hexagons, rounded shapes, crosses, diamonds, and circles
@@ -19,7 +19,7 @@
 - Maintain material properties through the cutting process
 ---
 
-## v0.9.0 - 2024-01-15
+## v0.9.0 - 2025-06-01
 ### Smart Fastener System
 - Comprehensive library of screws, bolts, and fasteners based on real-world specifications
 - Intelligent placement with angle and position control
@@ -38,7 +38,7 @@
 
 ---
 
-## v0.8.0 - 2024-01-05
+## v0.8.0 - 2025-05-18
 ### Texture & Color System
 - Over 200 professionally designed textures
 - Intelligent texture mapping based on part dimensions and material type
@@ -57,7 +57,7 @@
 
 ---
 
-## v0.7.0 - 2023-12-20
+## v0.7.0 - 2025-05-04
 ### Advanced Render Controls
 - Customizable floor size, texture, and position
 - Sky environment and grid overlay options
@@ -70,7 +70,7 @@
 
 ---
 
-## v0.6.0 - 2023-12-10
+## v0.6.0 - 2025-04-20
 ### Intelligent Assembly Instructions
 - Three-phase instruction generation:
   - Overview of component groups
@@ -92,7 +92,7 @@
 
 ---
 
-## v0.5.0 - 2023-12-01
+## v0.5.0 - 2025-04-06
 ### Geometry Caching System
 - 20x faster loading for complex geometries
 - Cached simplified versions of detailed parts
@@ -102,7 +102,7 @@
 
 ---
 
-## v0.4.0 - 2023-11-20
+## v0.4.0 - 2025-03-23
 ### Smart Ruler System
 - Click-activated measurement points on all parts
 - 9 snap points per part for precise alignment

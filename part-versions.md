@@ -10,7 +10,7 @@
 
 ---
 
-## v1.9.2 - 2025-04-01
+## v1.9.2 - 2025-04-15
 ### Nails
 - Complete range of nail types and sizes
 - Common nails, finish nails, brad nails, roofing nails
