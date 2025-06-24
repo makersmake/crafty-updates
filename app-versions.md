@@ -16,7 +16,14 @@
 - Copy and paste cuts between parts
 - Modify dimensions, textures, and colors after cutting
 <img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.0_cut_multiple.gif">
-- Maintain material properties through the cutting process
+- Maintain material properties through the cutting 
+
+### Smart Outline System
+- Cuts are automatically outlined
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.0_cut_outlines.png">
+
+
+
 ---
 
 ## v0.9.0 - 2025-06-01
