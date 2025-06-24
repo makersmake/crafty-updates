@@ -6,8 +6,6 @@
   - Sortable columns
   - Built-in pagination
   - CSV export
-  - ![DataTable Preview](./assets/gifs/datatable-demo.gif)
-  - [View Documentation →](https://docs.yourapp.com/components/datatable)
 
 - **DateRangePicker**
   - Preset ranges (Last 7 days, Last 30 days, etc.)
