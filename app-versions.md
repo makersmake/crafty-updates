@@ -8,13 +8,15 @@
 - Real-time preview with angle and dimension displays
 - Inverse shape cutting for complex negative space designs
 - Full undo/redo support for experimentation
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/cuts.gif">
 
 ### Advanced Cut Editing
 - Layer cuts on top of cuts for intricate designs
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/layered-cuts.gif">
 - Copy and paste cuts between parts
 - Modify dimensions, textures, and colors after cutting
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/modify-dimensions-cuts.gif">
 - Maintain material properties through the cutting process
-
 ---
 
 ## v0.9.0 - 2024-01-15
@@ -23,12 +25,16 @@
 - Intelligent placement with angle and position control
 - Automatic integration with assembly instructions
 - Compatible with all applicable materials including wood, aluminum 80/20 extrusions, and metal
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/fasteners.gif">
+
 
 ### Cross-Design Copy & Paste
 - Copy entire assemblies or individual parts between different design tabs
 - Preserves all connections, joints, and fastener placements
 - Maintains textures, colors, and custom modifications
 - Streamlines workflow for creating design variations
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/copy-paste.gif">
+
 
 ---
 
@@ -38,12 +44,16 @@
 - Intelligent texture mapping based on part dimensions and material type
 - Color tinting system for customizing any texture
 - Photorealistic rendering optimized for each material type
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/textures.gif">
+
+
 
 ### Contextual 3D Objects
 - Extensive library of real-world scale objects for design context
 - Categories include: furniture, people, plants, vehicles, food, electronics, and decorations
 - Hundreds of items with more added regularly
 - Perfect for visualizing your design in real-world scenarios
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/dog.gif">
 
 ---
 
@@ -55,6 +65,8 @@
 - Light intensity and position fine-tuning
 - One-click screenshot capture (PNG format)
 - Render settings saved with each design
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/render-options.gif">
+
 
 ---
 
