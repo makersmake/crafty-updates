@@ -3,7 +3,7 @@
 ## v1.10.1 - 2025-05-01
 ### Contextual Models
 - Real-world scale 3D objects for design visualization
-- Categories: furniture, people, plants, vehicles, food, electronics, decorations
+- Categories: furniture, people, plants, vehicles, food, electronics, decorations, animals & others 
 - Hundreds of models with accurate proportions
 - Perfect for showing your design in context
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/contextual.png">
@@ -33,7 +33,7 @@
 ## v1.8.1 - 2025-03-01
 ### PVC Electrical Components
 - Electrical conduit and fittings
-- Junction boxes and covers
+- Junction boxes
 - Conduit bodies and elbows
 - Schedule 40 and 80 options
 - UL listed components
@@ -55,7 +55,7 @@
 ## v1.6.1 - 2025-02-15
 ### Drywall Panels
 - Standard drywall sheets
-- Multiple thicknesses: 1/2", 5/8", 3/4"
+- Multiple thicknesses: 1/2", 5/8", 3/8"
 - Fire-rated and moisture-resistant options
 - Common sizes: 4x8, 4x10, 4x12
 - Automatic stud spacing alignment
@@ -67,7 +67,6 @@
 - Aluminum, steel, and stainless steel sheets
 - Multiple gauges and thicknesses
 - Standard sheet sizes
-- Perforated and diamond plate options
 - Bend radius calculations included
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/sheetmetal.png">
 
@@ -76,9 +75,9 @@
 ## v1.4.3 - 2025-01-01
 ### SharkBite Fittings
 - Push-to-connect plumbing fittings
-- Compatible with PEX, copper, CPVC, and PE-RT
+- Compatible with PEX
 - Couplings, elbows, tees, and valves
-- Sizes from 1/4" to 2"
+- Sizes from 1/2" to 3/4"
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/sharkbite.png">
 
 ---
@@ -97,9 +96,9 @@
 ## v1.4.1 - 2024-12-01
 ### PEX Pipes
 - Flexible water supply piping
-- PEX-A, PEX-B, and PEX-C options
+- PEX-A & PEX-B options
 - Red, blue, and white color coding
-- Sizes from 3/8" to 1"
+- Sizes from 1/2" to 3/4"
 - Oxygen barrier options available
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/pex.png">
 
@@ -112,7 +111,7 @@
 - Spring nuts and channel nuts
 - Splice plates and closure strips
 - Load ratings included
-<img src="https://assets.craftyamigo.com/assets/update-assets/parts/strut.png">
+<img src="https://assets.craftyamigo.com/assets/update-assets/parts/strut-channel-selector.png">
 
 ---
 
@@ -123,7 +122,7 @@
 - Slotted and solid configurations
 - Galvanized, stainless, and painted finishes
 - Common lengths
-<img src="https://assets.craftyamigo.com/assets/update-assets/parts/strut-channel-selector.png">
+<img src="https://assets.craftyamigo.com/assets/update-assets/parts/strut.png">
 
 ---
 
@@ -139,9 +138,7 @@
 ### Bathroom Equipment
 - Toilets, sinks, and bathtubs
 - Faucets and shower systems
-- Vanities and medicine cabinets
 - Standard residential dimensions
-- ADA compliant options
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/toilet.png">
 
 ---
@@ -150,7 +147,6 @@
 ### Washer Equipment
 - Front-load and top-load washers
 - Stackable washer/dryer units
-- Pedestal options
 - Standard capacity sizes
 - Major brand dimensions
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/washer.png">
@@ -159,9 +155,7 @@
 
 ## v1.1.1 - 2024-11-01
 ### Kitchen Equipment
-- Refrigerators, stoves, and dishwashers
-- Microwaves and range hoods
-- Kitchen sinks and disposals
+- Dishwashers
+- Kitchen sinks
 - Standard cabinet-ready dimensions
-- Professional and residential grades
 <img src="https://assets.craftyamigo.com/assets/update-assets/parts/sink.png">
