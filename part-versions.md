@@ -1,5 +1,15 @@
 # Parts Library Version History
 
+## v1.11.1 - 2025-06-01
+### Pool Equipments
+- Chlorine generators (15k–40k gallons)
+- Jandy Valve 3-way 
+- Optimized for accuracy and seamless integration in pool layouts
+- Ideal for showcasing technical setups and maintenance-friendly configurations
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/parts_New_Pool_Equipment.png">
+
+
+
 ## v1.10.1 - 2025-05-01
 ### Contextual Models
 - Real-world scale 3D objects for design visualization
