@@ -1,5 +1,14 @@
 # Application Version History
 
+
+## v1.0.1 - 2025-06-25
+### Fancy Renders
+- Generate realistic renders by clicking a button
+- All users get 2 free credits
+- If you need more credits, email us at hi@craftyamigo.com
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/fancy-render.gif">
+
+
 ## v1.0.0 - 2025-06-15
 ### Precision Cutting System
 - Create cuts and holes of any shape in wood, metal, aluminum, HVAC materials, steel rods, and pipes
