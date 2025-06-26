@@ -5,7 +5,7 @@
 ### Fancy Renders
 - Generate realistic renders by clicking a button
 - All users get 2 free credits
-- If you need more credits, email us at hi@craftyamigo.com
+- If you need more credits, [email us](mailto:hi@craftyamigo.com)
 <img src="https://assets.craftyamigo.com/assets/update-assets/app/fancy-render.gif">
 
 
