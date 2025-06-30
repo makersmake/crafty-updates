@@ -1,4 +1,13 @@
 # Parts Library Version History
+## v1.12.1 - 2025-06-30
+### Customizable blocks
+- Modular geometry blocks with interchangeable textures
+- Includes stone, grass, tiles, bricks and concrete variations 
+- Optimized for flexibility and seamless integration in 3D environments
+- Ideal for showcasing material combinations and rapid design iteration
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/parts_customizable_blocks.png">
+
+
 
 ## v1.11.1 - 2025-06-01
 ### Pool Equipments
