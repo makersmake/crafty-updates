@@ -5,6 +5,7 @@
 - Upload your own custom 3D Models (gltf zip, glb, obj)
 - Drag and drop your model to bring it into your design
 - Use the button at the bottom of the parts list to upload your own model
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.2_custom_modelos.gif">
 
 ## v1.0.1 - 2025-06-25
 ### Fancy Renders
