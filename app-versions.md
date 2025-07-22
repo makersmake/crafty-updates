@@ -1,5 +1,10 @@
 # Application Version History
 
+## v1.0.2 - 2025-07-21
+### Custom 3D Models
+- Upload your own custom 3D Models (gltf zip, glb, obj)
+- Drag and drop your model to bring it into your design
+- Use the button at the bottom of the parts list to upload your own model
 
 ## v1.0.1 - 2025-06-25
 ### Fancy Renders
