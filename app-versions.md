@@ -1,5 +1,12 @@
 # Application Version History
 
+## v1.0.3 - 2025-07-31
+### Check Snap Automatically
+- New button for checking for which new connections should be snapped in your selection
+- Use multiselect to select pieces, then use the "Check Snap" button to run the check over the selected pieces
+- Any new connections that are created will show an animation
+<img src="https://assets.craftyamigo.com/assets/update-assets/app/v1.0.3_check_snap.gif">
+
 ## v1.0.2 - 2025-07-21
 ### Custom 3D Models
 - Upload your own custom 3D Models (gltf zip, glb, obj)
